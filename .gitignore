@@ -1,0 +1,4 @@
+/.idea/
+/.swagger-codegen-ignore
+*.iml
+/target/
